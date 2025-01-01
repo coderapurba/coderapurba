@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Apurba Samadder</h1>
-<h3 align="center">Front-end Developer | React | Next | Shopify | UI/UX Designer</h3>
+<h3 align="center">Frontend Software Engineer || Web/App & Shopify Developer || Next Js || React Native || React Js || Javascript || Liquid || Bug Fix Pro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderapurba&label=Profile%20views&color=0e75b6&style=flat" alt="coderapurba" /> </p>
 
