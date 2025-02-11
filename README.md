@@ -29,15 +29,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **something amazing 🔥**
 
+<!--
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18v32IDJJTyV884FWbOzpylwjfaHTIXUP/view?usp=sharing)
+- - 📫 How to reach me **coderapurba@gmail.com**
 - 👨‍💻 All of my projects are available at my **portfolio** [www.apurbadev.com](https://www.apurbadev.com)
+-->
 
 - 💬 Ask me about **React, JavaScript, Shopify, React native**
 
-- 📫 How to reach me **coderapurba@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18v32IDJJTyV884FWbOzpylwjfaHTIXUP/view?usp=sharing)
-
 - ⚡ Fun fact **I think I'm crazy**
+
+- 👨‍💻 All of my projects are available at my **portfolio** [up-work](https://www.upwork.com/freelancers/coderapurba)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/coderapurba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderapurba" height="30" width="40" /></a>
 <a href="https://instagram.com/coderapurba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderapurba" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/coderapurba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderapurba" height="30" width="40" /></a> -->
-<a href="https://dribbble.com/coderapurba" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderapurba" height="30" width="40" /></a>
+<!-- <a href="https://dribbble.com/coderapurba" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderapurba" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
